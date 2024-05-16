@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.tsx";
-import SideBar from "./components/SideBar.tsx";
 import Header from "./components/Header.tsx";
 
 const router = createBrowserRouter([
